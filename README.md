@@ -3,7 +3,7 @@
 Estão inclusos os arquivos pertinentes aos programas referentes às questões 01, 02 e 04. 
 
 ->Sobre a questão 02:
-  O arquivo q02py.py é da questão 02. E para rodar o programa, basta executá-lo.
+  O arquivo q02py.py é da questão 02. E para rodar o programa, basta executá-lo.O usuário deve interagir com o programa ao fornecer os quatro dígitos do telefone.
 
 ->Sobre a questão 04:
   Para iniciar o programa, basta rodar o arquivo carropjfinal.py, que herda todas as caracteristicas da classe Carro presente no        arquivo Carro.py. O usuário deve interagir com o programa, colocando os valores referentes ao consumo, à adição de gasolina e à   distância percorrida.
