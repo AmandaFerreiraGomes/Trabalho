@@ -11,4 +11,4 @@ Estão inclusos os arquivos pertinentes aos programas referentes às questões 0
 ->Sobre a questão 01:
   Os arquivos q01.py, usuarios.txt e relatorio.txt pertencem à questão 01 e para executar o programa da referida questão, basta rodar q01.py.
   
-  AMANDA FERREIRA GOMES. MATRÍCULA: 418096
+  AMANDA FERREIRA GOMES. 
